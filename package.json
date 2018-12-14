@@ -1,0 +1,16 @@
+{
+  "name": "github-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage":"https://utkarsh4321.github.io/travel_agency",
+  "scripts": {
+    "deploy":"gh-pages deploy -d src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "utkarsh",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

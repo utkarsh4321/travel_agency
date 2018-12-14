@@ -1,0 +1,32 @@
+/* SEARCH BOX MODIFICATION */
+#search input[type="text"]{
+border-radius:.5rem;
+
+padding:0px 10px;
+font-size:18px;
+width:90%; 
+
+
+
+}
+.parallax-container{
+height:500px !important;
+
+
+}
+#change{
+
+    background:#ec407a;
+}
+
+#folow a .fa-4x{
+margin:5px 10px;
+
+
+
+} 
+
+
+
+
+
